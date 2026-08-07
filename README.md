@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/ParthGupta0806/DSA_JAVA/tree/master/0888-fair-candy-swap) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ParthGupta0806/DSA_JAVA/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
